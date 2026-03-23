@@ -1,11 +1,7 @@
 Hi, I'm Fateen 👋  
 
 I'm a Machine Learning Engineer with a background in Electrical Engineering,  
-focused on building end-to-end ML systems across:
-
-- Predictive maintenance & sensor data modeling  
-- NLP & LLM-based systems (RAG, classification)  
-- Hardware-aware AI and model optimization  
+focused on building end-to-end ML systems across NLP, predictive modeling, and LLM-based applications.
 
 I work across the full pipeline:
 data → modeling → evaluation → deployment  
