@@ -34,3 +34,11 @@ data → modeling → evaluation → deployment
 - 🧪 Toxicity Classifier (TF-IDF vs BERT)
 - 📚 Simple RAG System (embeddings + retrieval)
 - 📈 Linear Regression from Scratch (ML fundamentals)
+
+### 🔍 What I build
+
+- End-to-end ML pipelines for real-world data  
+- Predictive maintenance models using sensor data  
+- NLP systems (classification, embeddings, transformers)  
+- RAG-based LLM systems using retrieval + generation  
+- From-scratch ML implementations to understand core concepts  
